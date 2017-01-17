@@ -1,0 +1,4 @@
+One of the requirements for this project is adding another file to the project and commiting it.
+I have chosen to add this text file.
+
+-JHP 17JAN2017
